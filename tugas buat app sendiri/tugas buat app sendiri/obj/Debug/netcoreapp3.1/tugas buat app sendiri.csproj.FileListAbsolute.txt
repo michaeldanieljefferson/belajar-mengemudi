@@ -1,0 +1,16 @@
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas buat app sendiri\tugas buat app sendiri\bin\Debug\netcoreapp3.1\tugas buat app sendiri.exe
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas buat app sendiri\tugas buat app sendiri\bin\Debug\netcoreapp3.1\tugas buat app sendiri.deps.json
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas buat app sendiri\tugas buat app sendiri\bin\Debug\netcoreapp3.1\tugas buat app sendiri.runtimeconfig.json
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas buat app sendiri\tugas buat app sendiri\bin\Debug\netcoreapp3.1\tugas buat app sendiri.runtimeconfig.dev.json
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas buat app sendiri\tugas buat app sendiri\bin\Debug\netcoreapp3.1\tugas buat app sendiri.dll
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas buat app sendiri\tugas buat app sendiri\bin\Debug\netcoreapp3.1\tugas buat app sendiri.pdb
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas buat app sendiri\tugas buat app sendiri\obj\Debug\netcoreapp3.1\tugas buat app sendiri.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas buat app sendiri\tugas buat app sendiri\obj\Debug\netcoreapp3.1\tugas_buat_app_sendiri.Form1.resources
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas buat app sendiri\tugas buat app sendiri\obj\Debug\netcoreapp3.1\tugas buat app sendiri.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas buat app sendiri\tugas buat app sendiri\obj\Debug\netcoreapp3.1\tugas buat app sendiri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas buat app sendiri\tugas buat app sendiri\obj\Debug\netcoreapp3.1\tugas buat app sendiri.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas buat app sendiri\tugas buat app sendiri\obj\Debug\netcoreapp3.1\tugas buat app sendiri.AssemblyInfo.cs
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas buat app sendiri\tugas buat app sendiri\obj\Debug\netcoreapp3.1\tugas buat app sendiri.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas buat app sendiri\tugas buat app sendiri\obj\Debug\netcoreapp3.1\tugas buat app sendiri.dll
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas buat app sendiri\tugas buat app sendiri\obj\Debug\netcoreapp3.1\tugas buat app sendiri.pdb
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas buat app sendiri\tugas buat app sendiri\obj\Debug\netcoreapp3.1\tugas buat app sendiri.genruntimeconfig.cache

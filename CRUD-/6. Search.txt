@@ -1,0 +1,10 @@
+// 1. deklarasi
+DataTable dbdataset = new DataTable();
+
+//2. hapus syntax refresh
+DataTable dbdataset = new DataTable();
+
+//3. tambah di search field
+ DataView DV = new DataView(dbdataset);
+ DV.RowFilter = string.Format("customer_name LIKE '%{0}%'", textBox1.Text);
+ dataGridView_all.DataSource = DV;

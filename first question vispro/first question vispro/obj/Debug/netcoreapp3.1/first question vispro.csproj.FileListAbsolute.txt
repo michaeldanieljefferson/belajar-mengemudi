@@ -1,0 +1,17 @@
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\first question vispro\first question vispro\bin\Debug\netcoreapp3.1\first question vispro.exe
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\first question vispro\first question vispro\bin\Debug\netcoreapp3.1\first question vispro.deps.json
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\first question vispro\first question vispro\bin\Debug\netcoreapp3.1\first question vispro.runtimeconfig.json
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\first question vispro\first question vispro\bin\Debug\netcoreapp3.1\first question vispro.runtimeconfig.dev.json
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\first question vispro\first question vispro\bin\Debug\netcoreapp3.1\first question vispro.dll
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\first question vispro\first question vispro\bin\Debug\netcoreapp3.1\first question vispro.pdb
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\first question vispro\first question vispro\obj\Debug\netcoreapp3.1\first question vispro.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\first question vispro\first question vispro\obj\Debug\netcoreapp3.1\first_question_vispro.Form1.resources
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\first question vispro\first question vispro\obj\Debug\netcoreapp3.1\first_question_vispro.Properties.Resources.resources
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\first question vispro\first question vispro\obj\Debug\netcoreapp3.1\first question vispro.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\first question vispro\first question vispro\obj\Debug\netcoreapp3.1\first question vispro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\first question vispro\first question vispro\obj\Debug\netcoreapp3.1\first question vispro.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\first question vispro\first question vispro\obj\Debug\netcoreapp3.1\first question vispro.AssemblyInfo.cs
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\first question vispro\first question vispro\obj\Debug\netcoreapp3.1\first question vispro.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\first question vispro\first question vispro\obj\Debug\netcoreapp3.1\first question vispro.dll
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\first question vispro\first question vispro\obj\Debug\netcoreapp3.1\first question vispro.pdb
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\first question vispro\first question vispro\obj\Debug\netcoreapp3.1\first question vispro.genruntimeconfig.cache

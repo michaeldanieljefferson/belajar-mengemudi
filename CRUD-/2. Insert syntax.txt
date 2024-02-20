@@ -1,0 +1,21 @@
+//connection 
+            string myConnection = "datasource=localhost;port=3306;username=root;password=";
+            string Query = "insert into phonebook.customer (customer_ID, customer_name,customer_phone) values('','" + this.textBox_name.Text+" ',' "+this.textBox_phone.Text + "');";
+            MySqlConnection myConn = new MySqlConnection(myConnection);
+            MySqlCommand cmdDatabase = new MySqlCommand(Query, myConn);
+            MySqlDataReader myReader;
+
+            try
+            {
+                myConn.Open();
+                myReader = cmdDatabase.ExecuteReader();
+                MessageBox.Show("Data Inserted Successfuly");
+                while (myReader.Read())
+                {
+
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }

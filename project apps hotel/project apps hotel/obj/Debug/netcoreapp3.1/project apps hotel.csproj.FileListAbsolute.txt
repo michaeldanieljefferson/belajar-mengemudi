@@ -1,0 +1,16 @@
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\project apps hotel\project apps hotel\bin\Debug\netcoreapp3.1\project apps hotel.exe
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\project apps hotel\project apps hotel\bin\Debug\netcoreapp3.1\project apps hotel.deps.json
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\project apps hotel\project apps hotel\bin\Debug\netcoreapp3.1\project apps hotel.runtimeconfig.json
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\project apps hotel\project apps hotel\bin\Debug\netcoreapp3.1\project apps hotel.runtimeconfig.dev.json
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\project apps hotel\project apps hotel\bin\Debug\netcoreapp3.1\project apps hotel.dll
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\project apps hotel\project apps hotel\bin\Debug\netcoreapp3.1\project apps hotel.pdb
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\project apps hotel\project apps hotel\obj\Debug\netcoreapp3.1\project apps hotel.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\project apps hotel\project apps hotel\obj\Debug\netcoreapp3.1\project apps hotel.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\project apps hotel\project apps hotel\obj\Debug\netcoreapp3.1\project apps hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\project apps hotel\project apps hotel\obj\Debug\netcoreapp3.1\project apps hotel.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\project apps hotel\project apps hotel\obj\Debug\netcoreapp3.1\project apps hotel.AssemblyInfo.cs
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\project apps hotel\project apps hotel\obj\Debug\netcoreapp3.1\project apps hotel.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\project apps hotel\project apps hotel\obj\Debug\netcoreapp3.1\project apps hotel.dll
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\project apps hotel\project apps hotel\obj\Debug\netcoreapp3.1\project apps hotel.pdb
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\project apps hotel\project apps hotel\obj\Debug\netcoreapp3.1\project apps hotel.genruntimeconfig.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\project apps hotel\project apps hotel\obj\Debug\netcoreapp3.1\project_apps_hotel.form_apps_hotel.resources

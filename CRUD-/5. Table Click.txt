@@ -1,0 +1,5 @@
+DataGridViewRow row = this.dataGridView_all.Rows[e.RowIndex];
+
+textBox_ID.Text = row.Cells["customer_ID"].Value.ToString();
+textBox_name.Text = row.Cells["customer_name"].Value.ToString();
+textBox_phone.Text = row.Cells["customer_phone"].Value.ToString();

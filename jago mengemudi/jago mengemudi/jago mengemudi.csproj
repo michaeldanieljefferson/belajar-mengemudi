@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{93DC5CEC-9BA8-4AEE-8F8F-7C4D35122B81}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>jago_mengemudi</RootNamespace>
+    <AssemblyName>jago mengemudi</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.9.10.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form isi teacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form isi teacher.Designer.cs">
+      <DependentUpon>Form isi teacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_edit_data_student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_edit_data_student.Designer.cs">
+      <DependentUpon>Form_edit_data_student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_edit_data_teacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_edit_data_teacher.Designer.cs">
+      <DependentUpon>Form_edit_data_teacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_guru_private_motor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_guru_private_motor.Designer.cs">
+      <DependentUpon>Form_guru_private_motor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_guru_privat_mobil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_guru_privat_mobil.Designer.cs">
+      <DependentUpon>Form_guru_privat_mobil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_isi_data_student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_isi_data_student.Designer.cs">
+      <DependentUpon>Form_isi_data_student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_login_student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_login_student.Designer.cs">
+      <DependentUpon>Form_login_student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_login_teacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_login_teacher.Designer.cs">
+      <DependentUpon>Form_login_teacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_menu_utama_teacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_menu_utama_teacher.Designer.cs">
+      <DependentUpon>Form_menu_utama_teacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_orderan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_orderan.Designer.cs">
+      <DependentUpon>Form_orderan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_tampilan_utama_student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_tampilan_utama_student.Designer.cs">
+      <DependentUpon>Form_tampilan_utama_student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_transaksi_teacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_transaksi_teacher.Designer.cs">
+      <DependentUpon>Form_transaksi_teacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form isi teacher.resx">
+      <DependentUpon>Form isi teacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_edit_data_student.resx">
+      <DependentUpon>Form_edit_data_student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_edit_data_teacher.resx">
+      <DependentUpon>Form_edit_data_teacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_guru_private_motor.resx">
+      <DependentUpon>Form_guru_private_motor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_guru_privat_mobil.resx">
+      <DependentUpon>Form_guru_privat_mobil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_isi_data_student.resx">
+      <DependentUpon>Form_isi_data_student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_login_student.resx">
+      <DependentUpon>Form_login_student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_login_teacher.resx">
+      <DependentUpon>Form_login_teacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_menu_utama_teacher.resx">
+      <DependentUpon>Form_menu_utama_teacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_orderan.resx">
+      <DependentUpon>Form_orderan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_tampilan_utama_student.resx">
+      <DependentUpon>Form_tampilan_utama_student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_transaksi_teacher.resx">
+      <DependentUpon>Form_transaksi_teacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background....np.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gradient-blue-dynamic-lines-background_52683-67204.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kunci.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\data diri teacher.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hh1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ttttttt.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\michael.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kafe1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pppppppppp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nama app.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\baru.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xxxxxxx.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

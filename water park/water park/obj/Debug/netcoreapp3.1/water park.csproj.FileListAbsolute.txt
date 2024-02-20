@@ -1,0 +1,19 @@
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\water park\water park\bin\Debug\netcoreapp3.1\water park.exe
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\water park\water park\bin\Debug\netcoreapp3.1\water park.deps.json
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\water park\water park\bin\Debug\netcoreapp3.1\water park.runtimeconfig.json
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\water park\water park\bin\Debug\netcoreapp3.1\water park.runtimeconfig.dev.json
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\water park\water park\bin\Debug\netcoreapp3.1\water park.dll
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\water park\water park\bin\Debug\netcoreapp3.1\water park.pdb
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\water park\water park\obj\Debug\netcoreapp3.1\water park.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\water park\water park\obj\Debug\netcoreapp3.1\water_park.form_input.resources
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\water park\water park\obj\Debug\netcoreapp3.1\water_park.Form_login.resources
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\water park\water park\obj\Debug\netcoreapp3.1\water_park.Properties.Resources.resources
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\water park\water park\obj\Debug\netcoreapp3.1\water park.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\water park\water park\obj\Debug\netcoreapp3.1\water park.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\water park\water park\obj\Debug\netcoreapp3.1\water park.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\water park\water park\obj\Debug\netcoreapp3.1\water park.AssemblyInfo.cs
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\water park\water park\obj\Debug\netcoreapp3.1\water park.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\water park\water park\obj\Debug\netcoreapp3.1\water park.dll
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\water park\water park\obj\Debug\netcoreapp3.1\water park.pdb
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\water park\water park\obj\Debug\netcoreapp3.1\water park.genruntimeconfig.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\water park\water park\obj\Debug\netcoreapp3.1\water_park.form_tiket.resources

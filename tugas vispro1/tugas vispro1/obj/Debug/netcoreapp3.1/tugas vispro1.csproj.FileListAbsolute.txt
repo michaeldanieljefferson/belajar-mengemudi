@@ -1,0 +1,34 @@
+C:\Users\ACER\source\repos\tugas vispro1\tugas vispro1\bin\Debug\netcoreapp3.1\tugas vispro1.exe
+C:\Users\ACER\source\repos\tugas vispro1\tugas vispro1\bin\Debug\netcoreapp3.1\tugas vispro1.deps.json
+C:\Users\ACER\source\repos\tugas vispro1\tugas vispro1\bin\Debug\netcoreapp3.1\tugas vispro1.runtimeconfig.json
+C:\Users\ACER\source\repos\tugas vispro1\tugas vispro1\bin\Debug\netcoreapp3.1\tugas vispro1.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\tugas vispro1\tugas vispro1\bin\Debug\netcoreapp3.1\tugas vispro1.dll
+C:\Users\ACER\source\repos\tugas vispro1\tugas vispro1\bin\Debug\netcoreapp3.1\tugas vispro1.pdb
+C:\Users\ACER\source\repos\tugas vispro1\tugas vispro1\obj\Debug\netcoreapp3.1\tugas vispro1.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\tugas vispro1\tugas vispro1\obj\Debug\netcoreapp3.1\tugas_vispro1.Form1.resources
+C:\Users\ACER\source\repos\tugas vispro1\tugas vispro1\obj\Debug\netcoreapp3.1\tugas_vispro1.Properties.Resources.resources
+C:\Users\ACER\source\repos\tugas vispro1\tugas vispro1\obj\Debug\netcoreapp3.1\tugas vispro1.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\tugas vispro1\tugas vispro1\obj\Debug\netcoreapp3.1\tugas vispro1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\tugas vispro1\tugas vispro1\obj\Debug\netcoreapp3.1\tugas vispro1.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\tugas vispro1\tugas vispro1\obj\Debug\netcoreapp3.1\tugas vispro1.AssemblyInfo.cs
+C:\Users\ACER\source\repos\tugas vispro1\tugas vispro1\obj\Debug\netcoreapp3.1\tugas vispro1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\tugas vispro1\tugas vispro1\obj\Debug\netcoreapp3.1\tugas vispro1.dll
+C:\Users\ACER\source\repos\tugas vispro1\tugas vispro1\obj\Debug\netcoreapp3.1\tugas vispro1.pdb
+C:\Users\ACER\source\repos\tugas vispro1\tugas vispro1\obj\Debug\netcoreapp3.1\tugas vispro1.genruntimeconfig.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas vispro1\tugas vispro1\bin\Debug\netcoreapp3.1\tugas vispro1.exe
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas vispro1\tugas vispro1\bin\Debug\netcoreapp3.1\tugas vispro1.deps.json
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas vispro1\tugas vispro1\bin\Debug\netcoreapp3.1\tugas vispro1.runtimeconfig.json
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas vispro1\tugas vispro1\bin\Debug\netcoreapp3.1\tugas vispro1.runtimeconfig.dev.json
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas vispro1\tugas vispro1\bin\Debug\netcoreapp3.1\tugas vispro1.dll
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas vispro1\tugas vispro1\bin\Debug\netcoreapp3.1\tugas vispro1.pdb
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas vispro1\tugas vispro1\obj\Debug\netcoreapp3.1\tugas vispro1.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas vispro1\tugas vispro1\obj\Debug\netcoreapp3.1\tugas_vispro1.Form1.resources
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas vispro1\tugas vispro1\obj\Debug\netcoreapp3.1\tugas_vispro1.Properties.Resources.resources
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas vispro1\tugas vispro1\obj\Debug\netcoreapp3.1\tugas vispro1.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas vispro1\tugas vispro1\obj\Debug\netcoreapp3.1\tugas vispro1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas vispro1\tugas vispro1\obj\Debug\netcoreapp3.1\tugas vispro1.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas vispro1\tugas vispro1\obj\Debug\netcoreapp3.1\tugas vispro1.AssemblyInfo.cs
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas vispro1\tugas vispro1\obj\Debug\netcoreapp3.1\tugas vispro1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas vispro1\tugas vispro1\obj\Debug\netcoreapp3.1\tugas vispro1.dll
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas vispro1\tugas vispro1\obj\Debug\netcoreapp3.1\tugas vispro1.pdb
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas vispro1\tugas vispro1\obj\Debug\netcoreapp3.1\tugas vispro1.genruntimeconfig.cache

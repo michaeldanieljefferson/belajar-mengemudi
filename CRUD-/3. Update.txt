@@ -1,0 +1,2 @@
+string Query = " UPDATE phonebook.customer  SET customer_name = '" + textBox_name.Text + "', customer_phone	= '" + textBox_phone.Text + "' WHERE customer_ID = '"+ textBox_ID.Text + "'; ";
+            

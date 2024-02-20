@@ -1,0 +1,13 @@
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\CRUD data base\CRUD data base\bin\Debug\CRUD data base.exe.config
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\CRUD data base\CRUD data base\bin\Debug\CRUD data base.exe
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\CRUD data base\CRUD data base\bin\Debug\CRUD data base.pdb
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\CRUD data base\CRUD data base\obj\Debug\CRUD data base.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\CRUD data base\CRUD data base\obj\Debug\CRUD_data_base.Form1.resources
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\CRUD data base\CRUD data base\obj\Debug\CRUD_data_base.Properties.Resources.resources
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\CRUD data base\CRUD data base\obj\Debug\CRUD data base.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\CRUD data base\CRUD data base\obj\Debug\CRUD data base.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\CRUD data base\CRUD data base\obj\Debug\CRUD data base.exe
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\CRUD data base\CRUD data base\obj\Debug\CRUD data base.pdb
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\CRUD data base\CRUD data base\bin\Debug\MySql.Data.dll
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\CRUD data base\CRUD data base\bin\Debug\MySql.Data.xml
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\CRUD data base\CRUD data base\obj\Debug\CRUD_data_base.Form_database.resources

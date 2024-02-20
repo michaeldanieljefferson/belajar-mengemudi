@@ -1,0 +1,16 @@
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\test combo box\test combo box\bin\Debug\netcoreapp3.1\test combo box.exe
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\test combo box\test combo box\bin\Debug\netcoreapp3.1\test combo box.deps.json
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\test combo box\test combo box\bin\Debug\netcoreapp3.1\test combo box.runtimeconfig.json
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\test combo box\test combo box\bin\Debug\netcoreapp3.1\test combo box.runtimeconfig.dev.json
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\test combo box\test combo box\bin\Debug\netcoreapp3.1\test combo box.dll
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\test combo box\test combo box\bin\Debug\netcoreapp3.1\test combo box.pdb
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\test combo box\test combo box\obj\Debug\netcoreapp3.1\test combo box.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\test combo box\test combo box\obj\Debug\netcoreapp3.1\test_combo_box.Form1.resources
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\test combo box\test combo box\obj\Debug\netcoreapp3.1\test combo box.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\test combo box\test combo box\obj\Debug\netcoreapp3.1\test combo box.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\test combo box\test combo box\obj\Debug\netcoreapp3.1\test combo box.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\test combo box\test combo box\obj\Debug\netcoreapp3.1\test combo box.AssemblyInfo.cs
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\test combo box\test combo box\obj\Debug\netcoreapp3.1\test combo box.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\test combo box\test combo box\obj\Debug\netcoreapp3.1\test combo box.dll
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\test combo box\test combo box\obj\Debug\netcoreapp3.1\test combo box.pdb
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\test combo box\test combo box\obj\Debug\netcoreapp3.1\test combo box.genruntimeconfig.cache

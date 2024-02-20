@@ -1,0 +1,17 @@
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas combo box\tugas combo box\bin\Debug\netcoreapp3.1\tugas combo box.exe
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas combo box\tugas combo box\bin\Debug\netcoreapp3.1\tugas combo box.deps.json
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas combo box\tugas combo box\bin\Debug\netcoreapp3.1\tugas combo box.runtimeconfig.json
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas combo box\tugas combo box\bin\Debug\netcoreapp3.1\tugas combo box.runtimeconfig.dev.json
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas combo box\tugas combo box\bin\Debug\netcoreapp3.1\tugas combo box.dll
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas combo box\tugas combo box\bin\Debug\netcoreapp3.1\tugas combo box.pdb
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas combo box\tugas combo box\obj\Debug\netcoreapp3.1\tugas combo box.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas combo box\tugas combo box\obj\Debug\netcoreapp3.1\tugas_combo_box.Form1.resources
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas combo box\tugas combo box\obj\Debug\netcoreapp3.1\tugas combo box.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas combo box\tugas combo box\obj\Debug\netcoreapp3.1\tugas combo box.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas combo box\tugas combo box\obj\Debug\netcoreapp3.1\tugas combo box.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas combo box\tugas combo box\obj\Debug\netcoreapp3.1\tugas combo box.AssemblyInfo.cs
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas combo box\tugas combo box\obj\Debug\netcoreapp3.1\tugas combo box.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas combo box\tugas combo box\obj\Debug\netcoreapp3.1\tugas combo box.dll
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas combo box\tugas combo box\obj\Debug\netcoreapp3.1\tugas combo box.pdb
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas combo box\tugas combo box\obj\Debug\netcoreapp3.1\tugas combo box.genruntimeconfig.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\tugas combo box\tugas combo box\obj\Debug\netcoreapp3.1\tugas_combo_box.Properties.Resources.resources

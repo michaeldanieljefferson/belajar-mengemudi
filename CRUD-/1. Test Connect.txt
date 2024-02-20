@@ -1,0 +1,18 @@
+            try
+            {
+                //connection 
+                string myConnection = "datasource=localhost;port=3306;username=root;password=";    //initial database
+                MySqlConnection myConn = new MySqlConnection(myConnection); //load mysqllibrary conection
+                MySqlDataAdapter myDataAdapter = new MySqlDataAdapter();    //create data adapter
+                myDataAdapter.SelectCommand = new MySqlCommand("select * phonebook.customer;", myConn);// sql syntax
+                MySqlCommandBuilder cb = new MySqlCommandBuilder(myDataAdapter); //build data adapter
+
+                myConn.Open();// start connection
+                DataSet ds = new DataSet();
+                MessageBox.Show("Conected");
+                myConn.Close();// end connection
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }

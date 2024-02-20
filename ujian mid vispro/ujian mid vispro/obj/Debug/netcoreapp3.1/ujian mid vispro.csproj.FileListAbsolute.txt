@@ -1,0 +1,19 @@
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\ujian mid vispro\ujian mid vispro\bin\Debug\netcoreapp3.1\ujian mid vispro.exe
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\ujian mid vispro\ujian mid vispro\bin\Debug\netcoreapp3.1\ujian mid vispro.deps.json
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\ujian mid vispro\ujian mid vispro\bin\Debug\netcoreapp3.1\ujian mid vispro.runtimeconfig.json
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\ujian mid vispro\ujian mid vispro\bin\Debug\netcoreapp3.1\ujian mid vispro.runtimeconfig.dev.json
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\ujian mid vispro\ujian mid vispro\bin\Debug\netcoreapp3.1\ujian mid vispro.dll
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\ujian mid vispro\ujian mid vispro\bin\Debug\netcoreapp3.1\ujian mid vispro.pdb
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\ujian mid vispro\ujian mid vispro\obj\Debug\netcoreapp3.1\ujian mid vispro.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\ujian mid vispro\ujian mid vispro\obj\Debug\netcoreapp3.1\ujian_mid_vispro.Form_PT_Bread_Talk.resources
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\ujian mid vispro\ujian mid vispro\obj\Debug\netcoreapp3.1\ujian_mid_vispro.Form_input.resources
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\ujian mid vispro\ujian mid vispro\obj\Debug\netcoreapp3.1\ujian_mid_vispro.Properties.Resources.resources
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\ujian mid vispro\ujian mid vispro\obj\Debug\netcoreapp3.1\ujian mid vispro.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\ujian mid vispro\ujian mid vispro\obj\Debug\netcoreapp3.1\ujian mid vispro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\ujian mid vispro\ujian mid vispro\obj\Debug\netcoreapp3.1\ujian mid vispro.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\ujian mid vispro\ujian mid vispro\obj\Debug\netcoreapp3.1\ujian mid vispro.AssemblyInfo.cs
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\ujian mid vispro\ujian mid vispro\obj\Debug\netcoreapp3.1\ujian mid vispro.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\ujian mid vispro\ujian mid vispro\obj\Debug\netcoreapp3.1\ujian mid vispro.dll
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\ujian mid vispro\ujian mid vispro\obj\Debug\netcoreapp3.1\ujian mid vispro.pdb
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\ujian mid vispro\ujian mid vispro\obj\Debug\netcoreapp3.1\ujian mid vispro.genruntimeconfig.cache
+C:\Users\ACER\Documents\michael's computer programing\C# vispro\ujian mid vispro\ujian mid vispro\obj\Debug\netcoreapp3.1\ujian_mid_vispro.Form_total.resources
